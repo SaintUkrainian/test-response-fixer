@@ -8,7 +8,7 @@ import java.util.Collections;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class SimpleTest {
+class SimpleTest {
 
     private TestDataProducer testDataProducer;
 
