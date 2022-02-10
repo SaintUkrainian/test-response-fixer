@@ -1,7 +1,8 @@
 How to make it work properly?
 
+Move TestResponseFixerScript file to your project and just run it :)
+
 Your test class should have the following look:
-`
 
     class SomeTest {
 
@@ -20,4 +21,3 @@ Your test class should have the following look:
           someCustomeAssertMethod(result, "path-to-expected-response-file/SOME_TEST-FILE.json");
         }
     }
-`
